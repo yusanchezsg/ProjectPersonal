@@ -1,0 +1,8 @@
+C:\Users\Yuliana\source\repos\RepositoryPatter\Repository.Patter.DAL\bin\Debug\netcoreapp3.1\Repository.Patter.DAL.deps.json
+C:\Users\Yuliana\source\repos\RepositoryPatter\Repository.Patter.DAL\bin\Debug\netcoreapp3.1\Repository.Patter.DAL.dll
+C:\Users\Yuliana\source\repos\RepositoryPatter\Repository.Patter.DAL\obj\Debug\netcoreapp3.1\Repository.Patter.DAL.csprojAssemblyReference.cache
+C:\Users\Yuliana\source\repos\RepositoryPatter\Repository.Patter.DAL\obj\Debug\netcoreapp3.1\Repository.Patter.DAL.AssemblyInfoInputs.cache
+C:\Users\Yuliana\source\repos\RepositoryPatter\Repository.Patter.DAL\obj\Debug\netcoreapp3.1\Repository.Patter.DAL.AssemblyInfo.cs
+C:\Users\Yuliana\source\repos\RepositoryPatter\Repository.Patter.DAL\bin\Debug\netcoreapp3.1\Repository.Patter.DAL.runtimeconfig.json
+C:\Users\Yuliana\source\repos\RepositoryPatter\Repository.Patter.DAL\bin\Debug\netcoreapp3.1\Repository.Patter.DAL.runtimeconfig.dev.json
+C:\Users\Yuliana\source\repos\RepositoryPatter\Repository.Patter.DAL\obj\Debug\netcoreapp3.1\Repository.Patter.DAL.genruntimeconfig.cache
