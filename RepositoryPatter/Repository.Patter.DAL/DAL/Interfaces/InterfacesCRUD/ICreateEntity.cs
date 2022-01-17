@@ -2,6 +2,6 @@
 {
     public interface ICreateEntity<TEntity> where TEntity : class
     {
-        TEntity Create(TEntity entity);
+        bool Create(TEntity entity);
     }
 }

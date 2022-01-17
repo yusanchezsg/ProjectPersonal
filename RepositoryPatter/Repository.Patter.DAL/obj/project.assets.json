@@ -1520,6 +1520,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "Repository.Patter.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Repository.Patter.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repository.Patter.Models.dll": {}
+        }
       }
     }
   },
@@ -5788,6 +5798,11 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "Repository.Patter.Models/1.0.0": {
+      "type": "project",
+      "path": "../Repository.Patter.Models/Repository.Patter.Models.csproj",
+      "msbuildProject": "../Repository.Patter.Models/Repository.Patter.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5796,7 +5811,8 @@
       "Microsoft.EntityFrameworkCore.Design >= 5.0.13",
       "Microsoft.EntityFrameworkCore.Relational >= 5.0.13",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.13",
-      "Microsoft.EntityFrameworkCore.Tools >= 5.0.13"
+      "Microsoft.EntityFrameworkCore.Tools >= 5.0.13",
+      "Repository.Patter.Models >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5828,7 +5844,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Yuliana\\source\\repos\\RepositoryPatter\\Repository.Patter.Models\\Repository.Patter.Models.csproj": {
+              "projectPath": "C:\\Users\\Yuliana\\source\\repos\\RepositoryPatter\\Repository.Patter.Models\\Repository.Patter.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
